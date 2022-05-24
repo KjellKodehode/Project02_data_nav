@@ -1,0 +1,7 @@
+Make a dataset let/const that has multiple levels 
+which will allow you to practice navigation. 
+
+Use both objects and arrays
+
+Go display different things from your dataset in a component, 
+practice how to navigate using    . or []
